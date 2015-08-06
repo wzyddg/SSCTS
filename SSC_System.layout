@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="SSC_System.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22257" topLine="79" />
+		</Cursor>
+		<Folding>
+			<Collapse line="22" />
+			<Collapse line="28" />
+			<Collapse line="58" />
+			<Collapse line="77" />
+			<Collapse line="157" />
+			<Collapse line="200" />
+			<Collapse line="245" />
+			<Collapse line="277" />
+			<Collapse line="296" />
+			<Collapse line="316" />
+			<Collapse line="342" />
+			<Collapse line="364" />
+			<Collapse line="380" />
+			<Collapse line="397" />
+			<Collapse line="417" />
+			<Collapse line="451" />
+			<Collapse line="477" />
+			<Collapse line="559" />
+			<Collapse line="726" />
+			<Collapse line="763" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

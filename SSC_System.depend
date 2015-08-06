@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1399360758 source:f:\programming cache\codeblocks\ssc_system\ssc_system.cpp
+	<fstream>
+	<iostream>
+	<map>
+	<cstdlib>
+	<string>
+	<utility>
+	<vector>
+	<cstring>
+
+1398965897 f:\programming cache\codeblocks\ssc_system\customer.h
+	<string>
+
+1398965879 f:\programming cache\codeblocks\ssc_system\shoppingcard.h
+	<string>
+
+1398965897 f:\programming cache\codeblocks\ssc_system\commodity.h
+	<string>
+
+1398964905 source:f:\programming cache\codeblocks\ssc_system\commodity.cpp
+
+1398964905 source:f:\programming cache\codeblocks\ssc_system\customer.cpp
+
+1399692849 source:c:\users\wzy\desktop\ssc_system\ssc_system.cpp
+	<fstream>
+	<iostream>
+	<map>
+	<cstdlib>
+	<string>
+	<utility>
+	<vector>
+	<cstring>
+
+1401872283 source:f:\programming cache\codeblocks\ssc_system 1.3\ssc_system.cpp
+	<fstream>
+	<iostream>
+	<map>
+	<cstdlib>
+	<string>
+	<vector>
+	<cstring>
+
